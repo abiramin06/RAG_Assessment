@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the HR leave policy?",
+    "ground_truth": "The company HR leave policy provides guidelines for employee leave."
+  },
+  {
+    "question": "How many casual leaves are provided?",
+    "ground_truth": "Employees receive 12 casual leaves per year."
+  },
+  {
+    "question": "How many sick leaves are available?",
+    "ground_truth": "Employees receive 12 sick leaves per year."
+  },
+  {
+    "question": "How many days in advance should planned leave be requested?",
+    "ground_truth": "Planned leave requests should be submitted 3 days in advance."
+  },
+  {
+    "question": "Can casual leaves be carried forward?",
+    "ground_truth": "Casual leaves cannot be carried forward."
+  },
+  {
+    "question": "When is a medical certificate required?",
+    "ground_truth": "A medical certificate is required for sick leave exceeding 2 days."
+  },
+  {
+    "question": "What are the employee attendance rules?",
+    "ground_truth": "Employees must follow company attendance procedures."
+  },
+  {
+    "question": "What are the salary payment rules?",
+    "ground_truth": "Salary and payroll procedures are covered by the company salary policy."
+  },
+  {
+    "question": "What are the IT security guidelines?",
+    "ground_truth": "Employees must protect confidential company information."
+  },
+  {
+    "question": "How should employees manage passwords?",
+    "ground_truth": "Employees must follow the company's password management guidelines."
+  },
+  {
+    "question": "What is the work from home policy?",
+    "ground_truth": "Employees must follow the approved work from home procedures."
+  },
+  {
+    "question": "What is the employee onboarding process?",
+    "ground_truth": "The onboarding guide explains employee joining procedures."
+  },
+  {
+    "question": "What is the employee exit process?",
+    "ground_truth": "Employees must follow the company's approved exit procedures."
+  },
+  {
+    "question": "How are annual performance reviews handled?",
+    "ground_truth": "The company follows an annual performance review process."
+  },
+  {
+    "question": "What are the training and development guidelines?",
+    "ground_truth": "The company provides training and development guidelines for employees."
+  },
+  {
+    "question": "What are the travel and expense rules?",
+    "ground_truth": "Employees must follow the approved travel and expense policy."
+  },
+  {
+    "question": "What are the data privacy guidelines?",
+    "ground_truth": "Employees must protect confidential company information and follow data privacy guidelines."
+  },
+  {
+    "question": "What are the customer support guidelines?",
+    "ground_truth": "Employees must follow the company's customer support procedures."
+  },
+  {
+    "question": "What is the vendor management policy?",
+    "ground_truth": "The company follows approved vendor management procedures."
+  },
+  {
+    "question": "What are the office safety guidelines?",
+    "ground_truth": "Employees must follow the company's office safety procedures."
+  }
+]

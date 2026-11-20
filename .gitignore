@@ -1,0 +1,26 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+pycache/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# Qdrant database
+qdrant_db/
+
+# Generated results
+results/
+evaluation/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
